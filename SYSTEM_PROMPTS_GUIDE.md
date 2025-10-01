@@ -84,6 +84,7 @@ Generator ──────► Generator               │
 **Purpose**: Populates templates with personalized content
 
 **Key Features**:
+
 - Content strategy framework
 - SEO optimization
 - Conversion focus
